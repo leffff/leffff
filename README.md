@@ -1,6 +1,7 @@
+## Lev Novitskiy
 Machine learning engineer
 
-Tech stack
+### Tech stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="android" width="35" height="35"/>
@@ -43,11 +44,11 @@ Tech stack
   
 </p>
 
-Education
+### Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2019 - 2021)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
-Competition Background
+### Competition Background
 * [🥇AIIJC AI in Customer service 2021](https://aiijc.com/ru/)
 * [21/76 Yandex ML Cup NLP](https://yandex.ru/cup/)
 * [11/50 NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
