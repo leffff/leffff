@@ -49,7 +49,7 @@ Machine learning engineer
 </p>
 
 ### Education
-* [Yandex.Lyceum](https://yandexlyceum.ru) (2019 - 2021)
+* [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### Competition Background
