@@ -11,6 +11,10 @@ Machine learning engineer
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="android" width="40" height="40"/>
   </a>
   
+  <a href="https://keras.io" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="android" width="40" height="40"/>
+  </a>
+  
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="android" width="40" height="40"/>
   </a>
@@ -49,6 +53,6 @@ Machine learning engineer
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### Competition Background
-* 🥇[AIIJC](https://aiijc.com/ru/) AI in Customer service 2021
-* 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/)
+* 🥇[AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
+* 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
