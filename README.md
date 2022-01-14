@@ -58,6 +58,11 @@ Machine learning engineer
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### 🏆 Competition Background
-* 🥇[AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
+* 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+
+### Hobbies
+* 🏄‍♂️ Surfing
+* 🏊‍♂️ Swimming
+* 🏂 Snowboarding
