@@ -35,11 +35,16 @@ Machine learning engineer
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="android" width="40" height="40"/>
   </a>
   
-  <a href="https://www.sqlite.org/index.html" target="_blank"> 
-    <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" alt="android" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="android" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="android" width="45" height="40"/>
+  </a>
+  
+  <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="android" width="40" height="40"/>
   </a>
   
   <a href="https://git-scm.com/doc" target="_blank"> 
