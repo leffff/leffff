@@ -59,6 +59,7 @@ Machine learning engineer
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
+* 🥈 [RuCODE](https://rucode.net) "AI in vocation salary prediction" 2022
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 
