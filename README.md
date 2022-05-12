@@ -27,11 +27,11 @@ Machine learning engineer
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
 
-  <a href="https://www.sqlite.org/index.html" target="_blank"> 
+  <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html" width="40" height="40"/>
   </a>
 
-  <a href="https://www.sqlite.org/index.html" target="_blank"> 
+  <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="40" height="40"/>
   </a>
   
