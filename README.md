@@ -38,11 +38,7 @@ Machine learning engineer
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.docker.com" target="_blank"> 
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="45" height="40"/>
-  </a>
-  
+
   <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/>
   </a>
