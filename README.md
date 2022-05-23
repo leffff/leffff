@@ -1,7 +1,7 @@
 ## Lev Novitskiy
 Machine learning engineer
 
-### ⚙️ Tech stack
+### ⚙️ ML stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
@@ -11,18 +11,19 @@ Machine learning engineer
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
   </a>
   
-  <a href="https://keras.io" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/>
+   <a href="https://pytorch.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/>
-  </a>
+
   
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
   </a>
-  
+</p>
+
+### ⚙️ Web stack
+
+<p align="left"> 
   <a href="https://www.djangoproject.com" target="_blank"> 
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
