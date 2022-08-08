@@ -62,6 +62,9 @@ Machine learning engineer
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://lyceum.yandex.ru/profile/16574)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
+### 👨‍💻 Work experience
+* Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - August 2022)
+
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
 * 🥈 [RuCODE](https://rucode.net) "AI in vocation salary prediction" 2022
