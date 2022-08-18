@@ -59,7 +59,7 @@ Machine learning engineer
 </p>
 
 ### 🎓 Education
-* [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://lyceum.yandex.ru/profile/16574)
+* [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### 👨‍💻 Work experience
