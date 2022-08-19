@@ -72,7 +72,7 @@ Machine learning engineer
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 [Solution Description](https://github.com/leffff/AI-IJC)
-* 🥈 [RuCODE](https://rucode.net) "AI in vocation salary prediction" 2022 [Solution]([https://github.com/leffff/AI-IJC](https://github.com/leffff/RuCode-Payroll-2022)
+* 🥈 [RuCODE](https://rucode.net) "AI in vocation salary prediction" 2022 [Solution](https://github.com/leffff/RuCode-Payroll-2022)
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
