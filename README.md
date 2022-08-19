@@ -1,5 +1,6 @@
 ## Lev Novitskiy
-Machine learning engineer
+#### Machine learning engineer / Data Scientist
+</br>
 
 ### 📊 ML stack
 <p align="left"> 
