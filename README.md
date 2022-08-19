@@ -77,6 +77,9 @@ Machine learning engineer
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 
+### 🎉 Other Achievements
+* [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
+
 ### Hobbies
 * 🏄‍♂️ Surfing
 * 🏊‍♂️ Swimming
