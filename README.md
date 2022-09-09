@@ -28,7 +28,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="60" height="40"/>
   </a>
   
-  <a href="[https://huggingface.co](https://spark.apache.org/docs/latest/api/python/)" target="_blank"> 
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="pyspark" width="40" height="40"/>
   </a>
   
@@ -70,7 +70,7 @@
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
-* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (2020-2021)
+* [Deep Learning School](https://en.misis.ru) (Since 2021)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### 👨‍💻 Work experience
