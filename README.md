@@ -15,6 +15,10 @@
    <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
     <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch" width="40" height="40"/>
   </a>
+  
+  <a href="https://albumentations.ai" target="_blank"> 
+    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
+  </a>
 
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
