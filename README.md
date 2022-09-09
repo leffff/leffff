@@ -70,10 +70,11 @@
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
+* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (2020-2021)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
 ### 👨‍💻 Work experience
-* Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - August 2022)
+* Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - September 2022)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 [Solution Description](https://github.com/leffff/AI-IJC)
