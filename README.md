@@ -23,14 +23,6 @@
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
   </a>
- 
-  <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="60" height="40"/>
-  </a>
-  
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="pyspark" width="40" height="40"/>
-  </a>
   
 </p>
 
@@ -57,7 +49,11 @@
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
   </a>
+  
+</p>
 
+### 🔧 Other skills
+<p>
   <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/>
   </a>
