@@ -71,8 +71,8 @@
 
 ### 👨‍💻 Work experience
 * Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
-  - NLP: binray classifcation, multiclass classification
-  - Classic ML: binray classifcation with gradient boosting
+  - NLP: binray classifcation, multiclass classification (fraud type, method classification)
+  - Classic ML: binray classifcation with gradient boosting (fraud type classification)
   - Graps: edge classification (fraud detection)
 
 ### 🏆 Competition Background
