@@ -24,6 +24,17 @@
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
   </a>
   
+  <a href="https://spark.apache.org" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="huggingface" width="40" height="40"/>
+  </a>
+  
+  <a href="https://plotly.com" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="huggingface" width="40" height="40"/>
+  </a>
+  
+  
+  
+  
 </p>
 
 ### 💻 Web stack
