@@ -32,37 +32,8 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="huggingface" width="40" height="40"/>
   </a>
   
+  </p>
   
-  
-  
-</p>
-
-### 💻 Web stack
-
-<p align="left"> 
-  
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
-  </a>
-  
-  <a href="https://www.djangoproject.com" target="_blank"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-
-  <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html" width="40" height="40"/>
-  </a>
-
-  <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-  </a>
-  
-</p>
-
 ### 🔧 Other skills
 <p>
   <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
