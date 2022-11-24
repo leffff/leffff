@@ -57,6 +57,7 @@
   - NLP: binray classifcation, multiclass classification (fraud type, method classification)
   - Classic ML: binray classifcation with gradient boosting (fraud type classification)
   - Graps: edge classification (fraud detection)
+  - Transaction sequence scoring (fraud detection)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
