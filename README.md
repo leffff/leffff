@@ -13,7 +13,7 @@
   </a>
   
    <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
   </a>
   
   <a href="https://albumentations.ai" target="_blank"> 
@@ -25,12 +25,21 @@
   </a>
   
   <a href="https://spark.apache.org" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="huggingface" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
   </a>
   
   <a href="https://plotly.com" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="huggingface" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
   </a>
+  
+  <a href="https://seaborn.pydata.org" target="_blank"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  
+   <a href="https://pandas.pydata.org" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="seaborn" width="40" height="40"/>
+  </a>
+  
   
   </p>
   
