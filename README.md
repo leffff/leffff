@@ -70,7 +70,8 @@
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
-* 🥈 [RuCODE](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
+* 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
+* 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml) | [Solution](https://github.com/leffff/yandex_cup_nlp_2021)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
