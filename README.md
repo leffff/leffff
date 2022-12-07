@@ -62,10 +62,12 @@
 * [Tinkoff Generation](https://fintech.tinkoff.ru/school/generation/) (Since 2022)
 
 ### 👨‍💻 Work experience
-* Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
+* DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
   - NLP: binray classifcation, multiclass classification (fraud type, method classification)
   - Classic ML: binray classifcation with gradient boosting (fraud type classification)
   - Graps: edge classification (fraud detection)
+  - Transaction sequence scoring (fraud detection)
+* DS Junior developer at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - present day)
   - Transaction sequence scoring (fraud detection)
 
 ### 🏆 Competition Background
