@@ -82,7 +82,7 @@
 * [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
 
 ### 👨‍🏫 Other activities
-* [MISIS AI Lab]() lecturer
+* [MISIS AI Lab](https://misisailab.github.io) lecturer
 
 ### 🐶 Pet projects
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
