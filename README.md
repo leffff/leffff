@@ -40,8 +40,11 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="seaborn" width="40" height="40"/>
   </a>
   
+   <a href="https://wandb.ai/site" target="_blank"> 
+    <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
+  </a>
   
-  </p>
+</p>
   
 ### 🔧 Other skills
 <p>
