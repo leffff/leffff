@@ -81,6 +81,9 @@
 ### 🎉 Other Achievements
 * [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
 
+### 👨‍🏫 Other activities
+* [MISIS AI Lab]() lecturer
+
 ### 🐶 Pet projects
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
 * [Tools for model ensembling](https://github.com/leffff/fast-ensemble)
