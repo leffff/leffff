@@ -91,6 +91,7 @@
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
 * [Tools for model ensembling](https://github.com/leffff/fast-ensemble)
 * [My Gradient boosting](https://github.com/leffff/stackboost)
+* [Site for conducting ACM competitios](https://github.com/cutefluffyfox/zhecker)
 
 ### Hobbies
 * 🏄‍♂️ Surfing
