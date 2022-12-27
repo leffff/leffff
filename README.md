@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
   </a>
   
    <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
