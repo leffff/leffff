@@ -5,7 +5,7 @@
 ### 📊 ML stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   
   <a href="https://pytorch.org" target="_blank"> 
