@@ -90,6 +90,7 @@
 
 ### 🐶 Pet projects
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
+* [Tools for hyperspherical coordinates](https://github.com/leffff/pytorch-hypersphere)
 * [Tools for model ensembling](https://github.com/leffff/fast-ensemble)
 * [My Gradient boosting](https://github.com/leffff/stackboost)
 * [Web app for conducting ACM competitios](https://github.com/cutefluffyfox/zhecker)
