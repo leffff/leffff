@@ -64,9 +64,10 @@
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
-* [Deep Learning School](https://en.misis.ru) (Since 2020)
+* [Deep Learning School](https://en.misis.ru) (Since 2020 - 2022)
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
-* [Tinkoff Generation ML Cource](https://fintech.tinkoff.ru/school/generation/)(Since 2022) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
+* [Tinkoff Generation ML Cource](https://fintech.tinkoff.ru/school/generation/) (2022 - 2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
+* [Tinkoff Generation Advanced DL Cource](https://fintech.tinkoff.ru/school/generation/dl/) (2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-advanced-dl)
 
 ### 👨‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
