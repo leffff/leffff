@@ -1,5 +1,5 @@
 ## Lev Novitskiy
-#### Machine learning engineer / Data Scientist
+#### Antifraud researcher / Machine learning engineer / Data Scientist
 </br>
 
 ### 📊 ML stack
@@ -75,7 +75,7 @@
   - Classic ML: binray classifcation with gradient boosting (fraud type classification)
   - Graps: edge classification (fraud detection)
   - Transaction sequence scoring (fraud detection)
-* DS Junior developer at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - present day)
+* DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - present day)
   - Transaction sequence scoring (fraud detection)
 
 ### 🏆 Competition Background
