@@ -102,9 +102,9 @@
 * [Web app for conducting ACM competitios](https://github.com/cutefluffyfox/zhecker)
 
 ### Languages
-🇷🇺 Russian - Native
-🇬🇧 English - C1
-🇨🇳 Chinese - A2
+🇷🇺 Russian - Native <br>
+🇬🇧 English - C1 <br>
+🇨🇳 Chinese - A2 <br>
 
 ### Hobbies
 * 🏄‍♂️ Surfing
