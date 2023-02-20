@@ -101,6 +101,11 @@
 * [My Gradient boosting](https://github.com/leffff/stackboost)
 * [Web app for conducting ACM competitios](https://github.com/cutefluffyfox/zhecker)
 
+### Languages
+🇷🇺 Russian - Native
+🇬🇧 English - C1
+🇨🇳 Chinese - A2
+
 ### Hobbies
 * 🏄‍♂️ Surfing
 * 🏊‍♂️ Swimming
