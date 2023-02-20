@@ -1,5 +1,5 @@
 ## Lev Novitskiy
-#### Antifraud researcher / Machine learning engineer / Data Scientist
+#### Machine learning engineer / Data Scientist
 </br>
 
 ### 📊 ML stack
