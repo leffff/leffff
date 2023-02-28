@@ -75,7 +75,11 @@
   - Classic ML: binray classifcation with gradient boosting (fraud type classification)
   - Graps: edge classification (fraud detection)
   - Transaction sequence scoring (fraud detection)
-* DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - present day)
+* DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - February 2023)
+  - Graps: edge classification (fraud detection)
+  - Transaction sequence scoring (fraud detection)
+* DS Midle developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
+  - Graps: edge classification (fraud detection)
   - Transaction sequence scoring (fraud detection)
 
 ### 🏆 Competition Background
