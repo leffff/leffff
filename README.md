@@ -74,16 +74,16 @@
 
 ### 👨‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
-  - NLP: binray classifcation, multiclass classification (fraud type, method classification)
-  - Classic ML: binray classifcation with gradient boosting (fraud type classification)
-  - Graps: edge classification (fraud detection)
-  - Transaction sequence scoring (fraud detection)
+  - NLP: binray classifcation, multiclass classification
+  - Classic ML: binray classifcation with gradient boosting
+  - Graps: edge classification
+  - Transaction sequence scoring
 * DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - February 2023)
-  - Graps: edge classification (fraud detection)
-  - Transaction sequence scoring (fraud detection)
-* DS Middle developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
-  - Graps: edge classification (fraud detection)
-  - Transaction sequence scoring (fraud detection)
+  - Graps: edge classification
+  - Transaction sequence scoring
+* DS Junior+ developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
+  - Graps: edge classification
+  - Transaction sequence scoring
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
