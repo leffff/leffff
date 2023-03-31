@@ -76,13 +76,13 @@
 * DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
   - NLP: binray classifcation, multiclass classification
   - Classic ML: binray classifcation with gradient boosting
-  - Graps: edge classification
+  - Transaction Graph network
   - Transaction sequence scoring
 * DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - February 2023)
-  - Graps: edge classification
+  - Transaction Graph network
   - Transaction sequence scoring
 * DS Junior+ developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
-  - Graps: edge classification
+  - Transaction Graph network
   - Transaction sequence scoring
 
 ### 🏆 Competition Background
