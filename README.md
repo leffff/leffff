@@ -104,6 +104,7 @@
 ### 🐶 Pet projects
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
 * [Tools for hyperspherical coordinates](https://github.com/leffff/pytorch-hypersphere)
+* [Variational Graph Auto-Encoders](https://github.com/leffff/vgae-pytorch)
 * [Point cloud project](https://github.com/leffff/point-cloud-project)
 * [Tools for model ensembling](https://github.com/leffff/fast-ensemble)
 * [My Gradient boosting](https://github.com/leffff/stackboost)
