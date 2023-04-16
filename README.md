@@ -96,6 +96,7 @@
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml) | [Solution](https://github.com/leffff/yandex_cup_nlp_2021)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+* 168/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/leffff/mts-ml-cup)
 
 ### 🎉 Other Achievements
 * [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
