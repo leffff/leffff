@@ -73,10 +73,10 @@
   - Classic ML: binray classifcation with gradient boosting
   - Transaction Graph network
   - Transaction sequence scoring
-* DS Junior developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (December 2022 - February 2023)
+* DS Junior developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (December 2022 - February 2023)
   - Transaction Graph network
   - Transaction sequence scoring
-* DS Junior+ developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
+* DS Junior+ developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (February 2023 - present day)
   - Transaction Graph network
   - Transaction sequence scoring
 
