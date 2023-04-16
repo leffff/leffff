@@ -4,7 +4,6 @@
 ### [CV](https://docs.google.com/document/d/1jdLZTA3AKpMN6FJjoJle_kphrkk5LOnrjv5tbOGH8vM/edit?usp=sharing)
 </br>
 
-
 ### 📊 ML stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -62,16 +61,12 @@
   <a href="https://git-scm.com/doc" target="_blank"> 
     <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" width="40" height="40"/>
   </a>
-  
 </p>
 
-### 🎓 Education
-* [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
-* [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2022)
-* [NUST MISiS](https://en.misis.ru) (Since 2021)
-* [Tinkoff Generation ML Course](https://fintech.tinkoff.ru/school/generation/) (2022 - 2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
-* [Tinkoff Generation Advanced DL Course](https://fintech.tinkoff.ru/school/generation/dl/) (2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-advanced-dl)
-
+### 🧪 Research Experience
+* Intern Researcher at [AIRI](https://airi.net)
+  - New materials generation with VAEs
+  
 ### 👨‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
   - NLP: binray classifcation, multiclass classification
@@ -84,6 +79,13 @@
 * DS Junior+ developer (Antifraud researcher) at [SBER](https://www.sberbank.ru) Cyber Security (February 2023 - present day)
   - Transaction Graph network
   - Transaction sequence scoring
+
+### 🎓 Education
+* [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
+* [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2022)
+* [NUST MISiS](https://en.misis.ru) (Since 2021)
+* [Tinkoff Generation ML Course](https://fintech.tinkoff.ru/school/generation/) (2022 - 2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
+* [Tinkoff Generation Advanced DL Course](https://fintech.tinkoff.ru/school/generation/dl/) (2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-advanced-dl)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
