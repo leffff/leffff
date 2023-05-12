@@ -66,6 +66,8 @@
 ### 🧪 Research Experience
 * Intern Researcher at [AIRI](https://airi.net)
   - New materials design with VAEs (April 2023 - present day)
+  - Formation Energy regression with neural networks (May 2023 - present day)
+
   
 ### 👨‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
