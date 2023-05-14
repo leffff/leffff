@@ -91,6 +91,7 @@
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
+* 🥇 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
 * 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
 * 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
 * 🥈 [NTI MetaChallenge](https://practicingfutures.org/meta) "AI for enhancing peoples' skills" 2020 | [Solution](https://github.com/leffff/mr_din_bot)
