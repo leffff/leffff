@@ -108,6 +108,7 @@
 * [MISIS AI Lab](https://misisailab.github.io) lecturer
 
 ### 🐶 Pet projects
+* [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
 * [Tools for hyperspherical coordinates](https://github.com/leffff/pytorch-hypersphere)
 * [Variational Graph Auto-Encoders](https://github.com/leffff/vgae-pytorch)
