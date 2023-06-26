@@ -76,11 +76,12 @@
   - Transaction Graph Neural Networks (classification)
   - Transaction sequence scoring
 * DS Junior developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (December 2022 - February 2023)
-  - Transaction Graph Neural Networks (classification)
-  - Transaction sequence scoring
+  - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
+  - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
 * DS Junior+ developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (February 2023 - present day)
-  - Transaction Graph Neural Network (self-supervised: VGAEs, Contrastive Learning)
-  - Transaction sequence scoring
+  - Transaction Graph Neural Network (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
+  - Transaction Graph Neural Network (Temporal GNNs)
+  - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
