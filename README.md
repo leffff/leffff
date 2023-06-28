@@ -22,8 +22,8 @@
     <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
   </a>
   
-  <a href="https://albumentations.ai" target="_blank"> 
-    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
+  <a href="https://networkx.org" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="albumentations" width="40" height="40"/>
   </a>
 
   <a href="https://huggingface.co" target="_blank"> 
