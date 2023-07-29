@@ -89,7 +89,7 @@
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 * [Tinkoff Generation ML Course](https://fintech.tinkoff.ru/school/generation/) (2022 - 2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
 * [Tinkoff Generation Advanced DL Course](https://fintech.tinkoff.ru/school/generation/dl/) (2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-advanced-dl)
-* [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023)
+* [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/PavelShtykov/airi_2023_project)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
