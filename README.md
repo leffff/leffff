@@ -65,8 +65,9 @@
 
 ### 🧪 Research Experience
 * Intern Researcher at [AIRI](https://airi.net)
-  - New materials design with VAEs (April 2023 - present day)
-  - Formation Energy regression with neural networks (May 2023 - present day)
+  - New materials design with VAEs (April 2023 - May 2023)
+  - Formation Energy regression with neural networks (May 2023 - August 2023)
+  - Experiments on crystall structure generation (August 2023 - present day)
 
   
 ### 👨‍💻 Work experience
@@ -75,13 +76,17 @@
   - Classic ML: binray classifcation with gradient boosting
   - Transaction Graph Neural Networks (classification)
   - Transaction sequence scoring
-* DS Junior developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (December 2022 - February 2023)
+* Junior DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (December 2022 - February 2023)
   - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
-* DS Junior+ developer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (February 2023 - present day)
+* Junior+ DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (February 2023 - July 2023)
   - Transaction Graph Neural Network (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
   - Transaction Graph Neural Network (Temporal GNNs)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
+* Middle DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (July 2023 - present day)
+  - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
+  - User scoring (Gradient Boosting)
+  - Vulnerability detection in assembly with neural networks
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
