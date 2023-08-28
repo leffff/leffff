@@ -115,6 +115,7 @@
 
 ### 🐶 Pet projects
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
+* [South Park Character Generation](https://github.com/leffff/south-park-character-generation)
 * [Methods for Pretraining Graph Neural Networks](https://github.com/leffff/any-domain-pretrain-gnns)
 * [Tools for hyperspherical coordinates](https://github.com/leffff/pytorch-hypersphere)
 * [Variational Graph Auto-Encoders](https://github.com/leffff/vgae-pytorch)
