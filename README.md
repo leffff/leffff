@@ -65,9 +65,9 @@
 
 ### 🧪 Research Experience
 * Intern Researcher at [AIRI](https://airi.net)
-  - New materials design with VAEs (April 2023 - May 2023)
-  - Formation Energy regression with neural networks (May 2023 - August 2023)
-  - Experiments on crystall structure generation (August 2023 - present day)
+  - New materials design with VAEs (April 2023 - May 2023) (VAEs)
+  - Formation Energy regression with neural networks (May 2023 - August 2023) (GNNs, PointNet, CNNs, Transformers)
+  - Experiments on crystall structure generation, optimization (August 2023 - present day) (Diffusion, Flow Matching, AEs, CNNs, Transformers, En-Transformers)
 
   
 ### 👨‍💻 Work experience
@@ -85,7 +85,7 @@
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
 * Middle DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (July 2023 - present day)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
-  - User scoring (Gradient Boosting)
+  - User scoring (Gradient Boosting, Ensembling)
   - Vulnerability detection in assembly with neural networks
 
 ### 🎓 Education
