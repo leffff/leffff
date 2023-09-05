@@ -10,10 +10,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catbost" width="40" height="40"/>
-  </a>
-  
   <a href="https://pytorch.org" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
   </a>
@@ -32,6 +28,14 @@
   
   <a href="https://wandb.ai/site" target="_blank"> 
     <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
+  </a>
+
+  <a href="https://catboost.ai" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catbost" width="40" height="40"/>
+  </a>
+
+  <a href="https://optuna.readthedocs.io/en/stable/#" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="catbost" width="40" height="40"/>
   </a>
   
   <a href="https://pandas.pydata.org" target="_blank"> 
