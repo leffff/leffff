@@ -112,7 +112,7 @@
 * 168/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/leffff/mts-ml-cup)
 
 ### 🎉 Other Achievements
-* [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
+* [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder (2022 - 2023)
 
 ### 👨‍🏫 Other activities
 * [MISIS AI Lab](https://misisailab.github.io) lecturer
