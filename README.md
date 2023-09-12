@@ -1,5 +1,6 @@
 ## Lev Novitskiy
 #### Machine learning engineer / Data Scientist
+**Fields of interest:** Transformers, Graphs, Generative models, NLP
 
 ### [CV](https://docs.google.com/document/d/1jdLZTA3AKpMN6FJjoJle_kphrkk5LOnrjv5tbOGH8vM/edit?usp=sharing)
 </br>
