@@ -91,7 +91,8 @@
 * Middle DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (July 2023 - present day)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
   - User scoring (Gradient Boosting, Ensembling)
-  - Vulnerability detection in assembly with neural networks
+  - Vulnerability detection in assembly with neural networks (Angr, GNNs)
+  - Antifraud Voice Bot for preventinng call fraud (Whisper, ConFormer, RoBERTa, Retrieval)
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
