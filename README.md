@@ -69,26 +69,20 @@
 </p>
 
 ### 🧪 Research Experience
-* Intern Researcher at [AIRI](https://airi.net) (April 2023 - present day)
+* Researcher at [AIRI](https://airi.net) (April 2023 - present day)
   - New materials design with VAEs (VAEs)
   - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
   - Experiments on crystall structure generation, optimization (Diffusion, Flow Matching, AEs, CNNs, Transformers, En-Transformers)
 
   
 ### 👨‍💻 Work experience
-* DS Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
+* DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - Present day):
   - NLP: binray classifcation, multiclass classification
-  - Classic ML: binray classifcation with gradient boosting
-  - Transaction Graph Neural Networks (classification)
-  - Transaction sequence scoring
-* Junior DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (December 2022 - February 2023)
+  - Classic ML: fraud detection with gradient boosting
   - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
-* Junior+ DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (February 2023 - July 2023)
-  - Transaction Graph Neural Network (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
+  - Transaction Graph Neural Network pretraining (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
   - Transaction Graph Neural Network (Temporal GNNs)
-  - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
-* Middle DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (Antifraud) (July 2023 - present day)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
   - User scoring (Gradient Boosting, Ensembling)
   - Vulnerability detection in assembly with neural networks (Angr, GNNs)
