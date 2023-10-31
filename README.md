@@ -80,7 +80,6 @@
   - NLP: binray classifcation, multiclass classification
   - Classic ML: fraud detection with gradient boosting
   - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
-  - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
   - Transaction Graph Neural Network pretraining (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
   - Transaction Graph Neural Network (Temporal GNNs)
   - Transaction sequence scoring (LSTM, GRU, Transformer Encoder)
