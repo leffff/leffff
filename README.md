@@ -77,7 +77,7 @@
   
 ### 👨‍💻 Work experience
 * DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - Present day):
-  - NLP: binray classifcation, multiclass classification
+  - NLP: fraud call analisys
   - Classic ML: fraud detection with gradient boosting
   - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
   - Transaction Graph Neural Network pretraining (self-supervised: ARGA, ARGVA, GAEs, VGAEs, Contrastive Learning)
