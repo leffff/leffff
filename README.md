@@ -98,6 +98,7 @@
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
 * 🥇 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
+* 🥈 [Data Wagon Hack](https://datawagon.ru) 2023 | [Solution](https://github.com/leffff/data-wagon)
 * 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
 * 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
 * Finalists [VTB More Tech 4.0](https://moretech.vtb.ru) | [Solution](https://github.com/leffff/vtb_more_tech)
@@ -108,6 +109,7 @@
 
 ### 🎉 Other Achievements
 * [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder (2022 - 2023)
+* [VK Education Scholarship](https://education.vk.company/program/239) holder (2023 - 2024)
 
 ### 👨‍🏫 Other activities
 * [MISIS AI Lab](https://misisailab.github.io) lecturer
