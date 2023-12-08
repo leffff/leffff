@@ -113,6 +113,7 @@
 
 ### 👨‍🏫 Other activities
 * [MISIS AI Lab](https://misisailab.github.io) lecturer
+* * [Decision Trees, Bagging, Boosting](https://www.youtube.com/watch?v=oNNcHlKjGVo&t=12s)
 
 ### 🐶 Projects
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
