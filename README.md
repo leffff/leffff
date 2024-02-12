@@ -26,6 +26,10 @@
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
   </a>
+
+  <a href="https://huggingface.co/docs/diffusers/index" target="_blank"> 
+    <img src="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/firecracker.png" alt="diffusers" width="40" height="40"/>
+  </a>
   
   <a href="https://wandb.ai/site" target="_blank"> 
     <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
