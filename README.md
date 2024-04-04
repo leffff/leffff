@@ -80,7 +80,7 @@
 
   
 ### 👨‍💻 Work experience
-* DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - Present day):
+* DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - April 2024):
   - NLP: fraud call analisys
   - Classic ML: fraud detection with gradient boosting
   - Transaction Graph Neural Networks (GCN, GAT, GraphSAGE, Graphormer, GIN)
@@ -90,6 +90,9 @@
   - User scoring (Gradient Boosting, Ensembling)
   - Vulnerability detection in assembly with neural networks (Angr, GNNs)
   - Antifraud Voice Bot for preventinng call fraud (BERT, NSP, Pretraining, SFT, GPT, FAISS, HNSW, Retrieval, Whisper, ConFormer)
+  - 
+* DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
+  - Microstructure Generation
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
