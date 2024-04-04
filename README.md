@@ -71,13 +71,6 @@
     <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-### 🧪 Research Experience
-* Researcher at [AIRI](https://airi.net) (April 2023 - present day)
-  - New materials design with VAEs (VAEs)
-  - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
-  - Experiments on crystall structure generation, optimization (Diffusion, Flow Matching, AEs, CNNs, Transformers, En-Transformers)
-
   
 ### 👨‍💻 Work experience
 * DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - April 2024):
@@ -90,7 +83,12 @@
   - User scoring (Gradient Boosting, Ensembling)
   - Vulnerability detection in assembly with neural networks (Angr, GNNs)
   - Antifraud Voice Bot for preventinng call fraud (BERT, NSP, Pretraining, SFT, GPT, FAISS, HNSW, Retrieval, Whisper, ConFormer)
-  - 
+
+* DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
+  - New materials design with VAEs (VAEs)
+  - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
+  - Experiments on crystall structure generation, optimization (Diffusion, Flow Matching, AEs, CNNs, Transformers, En-Transformers)
+
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
   - Microstructure Generation
 
