@@ -109,6 +109,7 @@
 * 🥈 [Data Wagon Hack](https://datawagon.ru) 2023 | [Solution](https://github.com/leffff/data-wagon)
 * 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
 * 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
+* 4/80 [Moscow Travel Hack](https://business.russpass.ru/projects-events/moscow-travel-hack-hakaton/moscow-travel-hack-2024) "ServiceTech" | [Solution](https://github.com/leffff/travel-hack)
 * 4/20 [Tula Hack](https://tulahackdays.ru) "Building Detection from satellite images" | [Solution](https://github.com/triflt/tula_hack_2023)
 * Finalists [VTB More Tech 4.0](https://moretech.vtb.ru) | [Solution](https://github.com/leffff/vtb_more_tech)
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
