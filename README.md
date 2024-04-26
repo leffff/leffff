@@ -87,7 +87,7 @@
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
   - New materials design with VAEs (VAEs)
   - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
-  - Experiments on crystall structure generation, optimization (Diffusion, Flow Matching, AEs, CNNs, Transformers, En-Transformers)
+  - Crystall structure generation, optimization (Diffusion, Flow Matching, Bridge Matching, AEs, CNNs, Transformers, En-Transformers)
 
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
   - Microstructure Generation
