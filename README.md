@@ -73,6 +73,15 @@
 </p>
   
 ### 👨‍💻 Work experience
+* DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
+  - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
+  - Auto-Encoders (VQ, KL)
+ 
+* DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
+  - New materials design with VAEs (VAEs)
+  - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
+  - Crystall structure generation, optimization (Diffusion, Flow Matching, Bridge Matching, Auto-Encoders, CNNs, Transformers, En-Transformers)
+    
 * DL Engeneer at [SBER](https://www.sberbank.ru) Cyber Security (July 2022 - April 2024):
   - NLP: fraud call analisys
   - Classic ML: fraud detection with gradient boosting
@@ -84,14 +93,6 @@
   - Vulnerability detection in assembly with neural networks (Angr, GNNs)
   - Antifraud Voice Bot for preventinng call fraud (BERT, NSP, Pretraining, SFT, GPT, FAISS, HNSW, Retrieval, Whisper, ConFormer)
 
-* DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
-  - New materials design with VAEs (VAEs)
-  - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
-  - Crystall structure generation, optimization (Diffusion, Flow Matching, Bridge Matching, Auto-Encoders, CNNs, Transformers, En-Transformers)
-
-* DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
-  - Microstructure Generation
-  - Auto-Encoders (VQ, KL)
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
@@ -129,6 +130,7 @@
 ### 🐶 Projects
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
 * [Adversarial Diffusion Distillation implementation](https://github.com/leffff/adversarial-diffusion-distillation/)
+* [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
 * [South Park Character Generation](https://github.com/leffff/south-park-character-generation), [Dataset](https://huggingface.co/datasets/leffff/south-park-character-png-dataset)
 * [Flow Matching on ODEs and SDEs for colving inverse problems (Summer with AIRI 2023)](https://github.com/PavelShtykov/airi_2023_project)
 * [Diffusion pet project](https://github.com/leffff/diffusion-project)
