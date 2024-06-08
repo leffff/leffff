@@ -80,6 +80,7 @@
   - [InstructFlow](https://github.com/leffff/InstructFlow)
  
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
+  As a result of the research we published a paper and opensources the [code](https://github.com/AIRI-Institute/conditional-crystal-generation)
   - New materials design with VAEs (VAEs)
   - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
   - Crystall structure generation, optimization (Diffusion, Flow Matching, Bridge Matching, Auto-Encoders, CNNs, Transformers, En-Transformers)
