@@ -131,6 +131,7 @@
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
 * [Adversarial Diffusion Distillation implementation](https://github.com/leffff/adversarial-diffusion-distillation/)
 * [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
+* [Diffusers-like Euler Scheduler for Flow Matching](https://github.com/leffff/euler-scheduler)
 * [South Park Character Generation](https://github.com/leffff/south-park-character-generation), [Dataset](https://huggingface.co/datasets/leffff/south-park-character-png-dataset)
 * [Flow Matching on ODEs and SDEs for colving inverse problems (Summer with AIRI 2023)](https://github.com/PavelShtykov/airi_2023_project)
 * [Diffusion pet project](https://github.com/leffff/diffusion-project)
