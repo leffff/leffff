@@ -77,6 +77,7 @@
   - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
   - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
   - Auto-Encoders (VQ, KL)
+  - [InstructFlow](https://github.com/leffff/InstructFlow)
  
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)
   - New materials design with VAEs (VAEs)
@@ -129,6 +130,7 @@
 * * [Decision Trees, Bagging, Boosting](https://www.youtube.com/watch?v=oNNcHlKjGVo&t=12s)
 
 ### 🐶 Projects
+* [InstructFlow (IN PROGRESS)](https://github.com/leffff/InstructFlow)
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
 * [Adversarial Diffusion Distillation implementation](https://github.com/leffff/adversarial-diffusion-distillation/)
 * [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
