@@ -107,6 +107,7 @@
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
+* 🥇 [HSE Assistant Hack: Python](https://www.hse.ru/ai-assistant-hack-python/) "LLM assistant for programming contests" 2024 | [Solution](https://github.com/sheep-shaun/HSE-AI-Assistant-Hack)
 * 🥇 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
 * 🥇 [ML Talent Match](https://ml-talentmatch.ru) "NER on resumes 2024" | [Solution](https://github.com/leffff/ml-talent-match)
 * 🥈 [LCT Yakitiya](https://i.moscow/lct/yakutia) | [Solution](https://github.com/denmalbas007/LCT_Hack_Yakutiya_2023)
