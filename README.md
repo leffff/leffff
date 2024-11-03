@@ -76,7 +76,7 @@
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
   - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
   - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
-  - Auto-Encoders (VQ, KL)
+  - Auto-Encoders (VQ, KL) Created SOTA KL-VAE for LDMs
   - [FlowModels](https://github.com/leffff/InstructFlow) Inprementation of Flow-based models and distillation technoiques
  
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)</br>
