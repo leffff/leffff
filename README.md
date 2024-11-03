@@ -77,7 +77,7 @@
   - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
   - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
   - Auto-Encoders (VQ, KL)
-  - [InstructFlow](https://github.com/leffff/InstructFlow)
+  - [FlowModels](https://github.com/leffff/InstructFlow) Inprementation of Flow-based models and distillation technoiques
  
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)</br>
   As a result of the research we propose several new models for crystal structure generation and modification [code](https://github.com/AIRI-Institute/conditional-crystal-generation)
