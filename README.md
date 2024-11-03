@@ -79,7 +79,7 @@
   - Auto-Encoders (VQ, KL) Created SOTA KL-VAE for LDMs
   - [FlowModels](https://github.com/leffff/InstructFlow) Inprementation of Flow-based models and distillation technoiques
  
-* DL Researcher at [AIRI](https://airi.net) (April 2023 - present day)</br>
+* DL Researcher at [AIRI](https://airi.net) (April 2023 - May 2024)</br>
   As a result of the research we propose several new models for crystal structure generation and modification [code](https://github.com/AIRI-Institute/conditional-crystal-generation)
   - New materials design with VAEs (VAEs)
   - Formation Energy regression with neural networks (GNNs, PointNet, CNNs, Transformers)
