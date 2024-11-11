@@ -74,6 +74,7 @@
   
 ### 👨‍💻 Work experience
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
+  - Video Diffusion Distillation (LADD, ReFlow, LCM)
   - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
   - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
   - Auto-Encoders (VQ, KL) Created SOTA KL-VAE for LDMs
