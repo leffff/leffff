@@ -74,6 +74,7 @@
   
 ### 👨‍💻 Work experience
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
+  - [Kandinsly 4.0 T2V Flash](https://github.com/ai-forever/Kandinsky-4?tab=readme-ov-file) (LADD)
   - Video Diffusion Distillation (LADD, ReFlow, LCM)
   - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
   - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
