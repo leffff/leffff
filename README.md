@@ -1,6 +1,6 @@
 ## Lev Novitskiy
 #### Machine learning engineer / Data Scientist
-**Fields of interest:** Diffusion, Diffusion Distillation, Flow Matching, GANs
+**Fields of interest:** Diffusion Distillationб Diffusion, Mulimodal models, Flow Matching, GANs
 
 ### [CV](https://docs.google.com/document/d/1jdLZTA3AKpMN6FJjoJle_kphrkk5LOnrjv5tbOGH8vM/edit?usp=sharing)
 </br>
