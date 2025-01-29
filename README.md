@@ -134,9 +134,10 @@
 * * [Decision Trees, Bagging, Boosting](https://www.youtube.com/watch?v=oNNcHlKjGVo&t=12s)
 
 ### 🐶 Projects
-* [InstructFlow (IN PROGRESS)](https://github.com/leffff/InstructFlow)
+* [FlowModels (IN PROGRESS)](https://github.com/leffff/InstructFlow)
 * [Graphormer in PyTorch-Geometric](https://github.com/leffff/graphormer-pyg)
 * [Adversarial Diffusion Distillation implementation](https://github.com/leffff/adversarial-diffusion-distillation/)
+* [Diffusion Forcing with Flow Matching](https://github.com/leffff/diffusion-forcing)
 * [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
 * [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
 * [Diffusers-like Euler Scheduler for Flow Matching](https://github.com/leffff/euler-scheduler)
