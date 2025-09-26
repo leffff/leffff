@@ -74,12 +74,14 @@
   
 ### 👨‍💻 Work experience
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
-  - [Kandinsly 4.0 T2V Flash](https://github.com/ai-forever/Kandinsky-4?tab=readme-ov-file) (LADD)
+  - Developed a universal Multistage Video Diffusion Distillation Pipeline **(х2 - х8)**, CFG distill -> Consistency distill -> Adversarial Distillation
+  - Kandinsky 4.1 Video Distillation **(х8 speedup)**
+  - [Kandinsly 4.0 T2V Flash](https://github.com/ai-forever/Kandinsky-4?tab=readme-ov-file) **(Distillation x25 speedup)**
   - Video Diffusion Distillation (LADD, ReFlow, LCM)
-  - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
-  - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
   - Auto-Encoders (VQ, KL) Created SOTA KL-VAE for LDMs
   - [FlowModels](https://github.com/leffff/InstructFlow) Inprementation of Flow-based models and distillation technoiques
+  - [Dragon Diffusion on Kandinsky 3.0](https://github.com/leffff/dragon-diffusion-kandinsky3)
+  - [3D Microstructures generation](https://github.com/leffff/3d-material-diffusion)
  
 * DL Researcher at [AIRI](https://airi.net) (April 2023 - May 2024)</br>
   As a result of the research we propose several new models for crystal structure generation and modification [code](https://github.com/AIRI-Institute/conditional-crystal-generation)
