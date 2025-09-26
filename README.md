@@ -76,6 +76,7 @@
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
   - Developed a universal Multistage Video Diffusion Distillation Pipeline **(х2 - х8)**, CFG distill -> Consistency distill -> Adversarial Distillation
   - Kandinsky 4.1 Video Distillation **(х8 speedup)**
+  - WAN 2.1, Hunyuan Video Distillation **(х8 speedup)**
   - [Kandinsly 4.0 T2V Flash](https://github.com/ai-forever/Kandinsky-4?tab=readme-ov-file) **(Distillation x25 speedup)**
   - Video Diffusion Distillation (LADD, ReFlow, LCM)
   - Auto-Encoders (VQ, KL) Created SOTA KL-VAE for LDMs
