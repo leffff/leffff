@@ -102,12 +102,16 @@
 
 
 ### 🎓 Education
+* [Skoltech](https://www.skoltech.ru/en/)
+* [NUST MISiS](https://en.misis.ru) (Since 2021)
+
+### Cources
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2018 - 2020) [Diploma](https://drive.google.com/file/d/1JjV6csNFe4L6jsJ9uoKAr_vwwYxWpZhs/view?usp=sharing),  [Verification](https://lyceum.yandex.ru/certificate/check/?certNumber=200216574&lastName=Новицкий)
 * [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2022)
-* [NUST MISiS](https://en.misis.ru) (Since 2021)
 * [Tinkoff Generation ML Course](https://fintech.tinkoff.ru/school/generation/) (2022 - 2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-generation-solution)
 * [Tinkoff Generation Advanced DL Course](https://fintech.tinkoff.ru/school/generation/dl/) (2023) | [Enrollment Solution](https://github.com/leffff/tinkoff-advanced-dl)
 * [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/PavelShtykov/airi_2023_project)
+* [SMILES 2025](https://smiles.skoltech.ru/rus) | [Project](https://github.com/leffff/Diffusion-Reward-Modeling-for-Text-Rendering)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
