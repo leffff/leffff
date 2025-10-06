@@ -74,6 +74,7 @@
   
 ### 👨‍💻 Work experience
 * DL Researcher at [SBER AI](https://ai.sber.ru/) (April 2024 - Present day):
+  - [Kandinsky 5.0](https://github.com/ai-forever/Kandinsky-5) Released 8 models
   - Developed a universal Multistage Video Diffusion Distillation Pipeline **(х2 - х8)**, CFG distill -> Consistency distill -> Adversarial Distillation
   - Kandinsky 4.1 Video Distillation **(х8 speedup)**
   - WAN 2.1, Hunyuan Video Distillation **(х8 speedup)**
